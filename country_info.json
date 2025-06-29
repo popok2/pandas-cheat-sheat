@@ -1,0 +1,17 @@
+﻿{
+    "USA": {
+        "Capital": "Washington D.C.",
+        "Population": 331002651,
+        "Currency": "USD"
+    },
+    "Korea": {
+        "Capital": "Seoul",
+        "Population": 51780579,
+        "Currency": "KRW"
+    },
+    "Canada": {
+        "Capital": "Ottawa",
+        "Population": 37742154,
+        "Currency": "CAD"
+    }
+}

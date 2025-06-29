@@ -1,0 +1,6 @@
+﻿CustomerID,Name,Gender,Age,Country,Product,Category,Price,Quantity,PurchaseDate
+1001,Alice,Female,25,USA,A101,Phone,500.0,1,2023-01-05 10:23:00
+1002,Bob,Male,30,UK,B202,Laptop,900.0,1,2022-11-11 16:02:00
+1003,Charlie,Male,22,Korea,C303,Phone,480.0,2,2023-08-20 13:40:00
+1004,Daisy,Female,28,USA,D404,Tablet,300.0,1,2023-06-01 08:00:00
+1005,Ethan,Male,35,Canada,E505,Laptop,,1,2023-03-03 19:15:00
